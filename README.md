@@ -15,3 +15,5 @@ https://rosalind.info/statistics/top/
 to make it to top 100, one needs to solve 205 problems and ive only solved 21 hmmmmmm
 
 the second problem i was working on today isnt giving the right output ughhh hopefully i can figure it out tomorroww
+
+im gonna work on the algorithm problems too bc i dunno https://rosalind.info/problems/list-view/?location=algorithmic-heights
