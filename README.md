@@ -19,3 +19,6 @@ the second problem i was working on today isnt giving the right output ughhh hop
 im gonna work on the algorithm problems too bc i dunno https://rosalind.info/problems/list-view/?location=algorithmic-heights
 
 im just going to do the problems in random order lol as long as i work on them every work day, thats good progress i think
+
+# Goal for July: Constructing a De Bruijn Graph https://rosalind.info/problems/dbru/
+to unlock it i have to solve: “Genome Assembly as Shortest Superstring”, “k-Mer Composition”, “Introduction to Set Operations” first
