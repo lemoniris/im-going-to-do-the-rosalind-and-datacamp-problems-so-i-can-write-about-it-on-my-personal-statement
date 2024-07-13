@@ -22,3 +22,5 @@ im just going to do the problems in random order lol as long as i work on them e
 
 # Goal for July: Constructing a De Bruijn Graph https://rosalind.info/problems/dbru/
 to unlock it i have to solve: “Genome Assembly as Shortest Superstring”, “k-Mer Composition”, “Introduction to Set Operations” first
+
+i want to get to the de bruijn graph problem in july and then i want to rewrite some of the problems in Rust in august ... but if im hired at mskcc, then i wont have time to rewrite them in Rust in august, ill be way too busy, but im planning that 1/3 of my personal statement will be about solving alignment problems in python on rosalind over the of summer 2024 so that should be good story i think, i dunno, lets see what my brother's thesis advisor thinks about that idea for the personal statement lol, thats the plan though
