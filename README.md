@@ -31,3 +31,5 @@ i want to get to the de bruijn graph problem in july and then i want to rewrite 
 my code for one of the problems takes too long to run even though its using the itertools library ughhhh, it has to run within 5 mins otherwise the problem closes ... so thats what im working on this week it seems, great, wonderful, perfect, i want a cigarette even though i dont smoke, greattttt this is going to be a fun week of optimizing python code
 
 too busy to get to do more rosalind problems this week, maybe ill go to the library on sunday to work on one of the problems, really want to get to the de brujin problem before august let see if that happens
+
+im stuck on like 4 rosalind problems at the same time ... so close
