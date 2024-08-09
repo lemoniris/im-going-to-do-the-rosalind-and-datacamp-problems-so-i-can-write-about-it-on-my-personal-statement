@@ -34,3 +34,5 @@ my code for one of the problems takes too long to run even though its using the 
 too busy to get to do more rosalind problems this week, maybe ill go to the library on sunday to work on one of the problems, really want to get to the de brujin problem before august let see if that happens
 
 im stuck on like 4 rosalind problems at the same time ... so close
+
+ill come back to these problems next week or so, busy finishing up something else this week
