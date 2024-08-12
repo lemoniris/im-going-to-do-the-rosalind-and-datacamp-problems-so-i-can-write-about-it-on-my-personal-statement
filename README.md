@@ -36,3 +36,5 @@ too busy to get to do more rosalind problems this week, maybe ill go to the libr
 im stuck on like 4 rosalind problems at the same time ... so close
 
 ill come back to these problems next week or so, busy finishing up something else this week
+
+best way to learn rust is to come up with programs to write, sometimes
