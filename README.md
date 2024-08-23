@@ -20,7 +20,7 @@ im gonna work on the algorithm problems too bc i dunno https://rosalind.info/pro
 
 im just going to do the problems in random order lol as long as i work on them every work day, thats good progress i think
 
-# Goal for Mid-August: 
+# Goal for October/November (a little busy):
 # 7. Constructing a De Bruijn Graph https://rosalind.info/problems/dbru/
 to unlock it i have to solve: 
 # 6. “Genome Assembly as Shortest Superstring”
